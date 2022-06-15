@@ -6,12 +6,13 @@ We will be doing the data preparation and applying the feature selection techniq
 🚗 The dataset represents cars, their specificities, and whether they are cheap or expensive
 
 Part of the Plan:
-Duplicates
-Missing data
-Outliers
-Scaling
-Encoding
-Feature creation
-Feature selection
+- Finding Duplicates
+- Imputing Missing data
+- Checking for Outliers
+- Data Scaling
+- Feature Encoding
+- Feature creation
+- Feature selection
+- Cross validation
 
 ![Screenshot](poc.png)
