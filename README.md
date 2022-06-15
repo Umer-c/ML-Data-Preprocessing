@@ -14,4 +14,4 @@ Encoding
 Feature creation
 Feature selection
 
-![Screenshot](prepoc.png)
+![Screenshot](poc.png)
