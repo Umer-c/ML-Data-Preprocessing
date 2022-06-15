@@ -14,5 +14,6 @@ Part of the Plan:
 - Feature creation
 - Feature selection
 - Cross validation
+- Predicting price of new car
 
 ![Screenshot](poc.png)
